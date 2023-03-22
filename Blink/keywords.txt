@@ -1,0 +1,5 @@
+Blink	KEYWORD1
+
+tick	KEYWORD2
+setPin	KEYWORD2
+setTimer	KEYWORD2
